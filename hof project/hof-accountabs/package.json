@@ -1,0 +1,17 @@
+{
+  "name": "hof-accountabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "permissionless": "^0.3.5",
+    "viem": "^2.48.1"
+  }
+}
