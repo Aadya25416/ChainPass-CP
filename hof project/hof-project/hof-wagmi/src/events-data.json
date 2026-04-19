@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "title": "Neon Horizon Festival",
+    "location": "Mumbai Arena",
+    "date": "May 15, 2026",
+    "price": "0.05 ETH"
+  },
+  {
+    "id": 2,
+    "categoryId": 2,
+    "title": "ChainLeague Championship",
+    "location": "Delhi Stadium",
+    "date": "Jun 2, 2026",
+    "price": "0.02 ETH"
+  },
+  {
+    "id": 3,
+    "categoryId": 3,
+    "title": "MetaCanvas Exhibition",
+    "location": "Bangalore Gallery",
+    "date": "Jun 20, 2026",
+    "price": "0.01 ETH"
+  }
+]
